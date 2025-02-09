@@ -41,6 +41,3 @@ This project is licensed under the MIT License.
 🔗 GitHub: Pratik Fulzele
 🔗 LinkedIn: PratikyFulzele
 
-### **How to Use:**
-- Save this as **README.md** in your project folder.
-- Push it to GitHub along with your script! 🚀
